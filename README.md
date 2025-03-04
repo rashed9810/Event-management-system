@@ -1,5 +1,4 @@
-```markdown
-# 🎉 Event Management System - Brothers Dream It Ltd
+# 🎉 Event Management System
 
 ![Laravel](https://img.shields.io/badge/Laravel-8.x-FF2D20?style=for-the-badge&logo=laravel)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-5-7952B3?style=for-the-badge&logo=bootstrap)
@@ -161,6 +160,11 @@ Alternatively, refer to the [LICENSE](LICENSE) file for details.
 - **User-Centric Design**: Clean UI with Bootstrap for seamless navigation.
 - **Scalable Architecture**: Built on Laravel for easy future enhancements.
 - **Comprehensive Documentation**: Detailed report with ER diagrams, DFDs, and process models.
+
+## 📄 Full Report
+
+For a detailed account of the project, please download the [Full Practicum Report](docs/FinalYearPracticumReport.docx).
+
 
 ⭐ **Star the repo if you find this useful!** ⭐
 ```
